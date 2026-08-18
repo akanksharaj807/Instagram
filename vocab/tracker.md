@@ -11,8 +11,8 @@ Total unique words: **3202**
 | Letter | Total | Done | Status |
 |---|---|---|---|
 | A | 255 | 255 | ✅ complete |
-| B | 92 | 0 | ⏳ pending |
-| C | 318 | 0 | ⏳ pending |
+| B | 92 | 92 | ✅ complete |
+| C | 318 | 159 | 🟡 half done (last: `compromise`) |
 | D | 260 | 0 | ⏳ pending |
 | E | 249 | 0 | ⏳ pending |
 | F | 145 | 0 | ⏳ pending |
@@ -36,7 +36,7 @@ Total unique words: **3202**
 | X | 1 | 0 | ⏳ pending |
 | Y | 2 | 0 | ⏳ pending |
 | Z | 4 | 0 | ⏳ pending |
-| **Total** | **3202** | **255** | 8% |
+| **Total** | **3202** | **506** | 16% |
 
 ## Master file
 - Output: `vocab/master.csv`
