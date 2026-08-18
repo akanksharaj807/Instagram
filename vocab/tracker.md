@@ -14,8 +14,8 @@ Total unique words: **3202**
 | B | 92 | 92 | ✅ complete |
 | C | 318 | 317 | ✅ complete (skipped `circustantial` — source typo of `circumstantial`) |
 | D | 260 | 260 | ✅ complete |
-| E | 249 | 0 | ⏳ pending |
-| F | 145 | 0 | ⏳ pending |
+| E | 249 | 249 | ✅ complete |
+| F | 145 | 145 | ✅ complete |
 | G | 54 | 0 | ⏳ pending |
 | H | 73 | 0 | ⏳ pending |
 | I | 275 | 0 | ⏳ pending |
@@ -36,7 +36,7 @@ Total unique words: **3202**
 | X | 1 | 0 | ⏳ pending |
 | Y | 2 | 0 | ⏳ pending |
 | Z | 4 | 0 | ⏳ pending |
-| **Total** | **3202** | **1083** | 34% |
+| **Total** | **3202** | **1477** | 46% |
 
 ## Output files
 - One CSV per letter: `vocab/A.csv`, `vocab/B.csv`, `vocab/C.csv`, ...
