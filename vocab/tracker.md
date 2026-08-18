@@ -38,6 +38,6 @@ Total unique words: **3202**
 | Z | 4 | 0 | ⏳ pending |
 | **Total** | **3202** | **506** | 16% |
 
-## Master file
-- Output: `vocab/master.csv`
+## Output files
+- One CSV per letter: `vocab/A.csv`, `vocab/B.csv`, `vocab/C.csv`, ...
 - Columns: `Word, Meaning, Sense, Sentence 1, Sentence 2, Sentence 3`
