@@ -1,43 +1,49 @@
 # Vocabulary Master File — Progress Tracker
 
 Source: `GRE_WORDS_TO_REFER_CLEANED.csv`
-Total unique words: **3202**
+Total unique source words: **3202**
+Family-consolidation applied (one form per word family).
 
 ## Legend
-- Sense: **+** positive · **−** negative · **N** neutral · **±** context-dependent
+- Sense: **+** positive · **−** negative · **N** neutral
 
-## Progress by letter
+## Progress by letter (after consolidation)
 
-| Letter | Total | Done | Status |
+| Letter | Kept | Source | Notes |
 |---|---|---|---|
-| A | 255 | 255 | ✅ complete |
-| B | 92 | 92 | ✅ complete |
-| C | 318 | 317 | ✅ complete (skipped `circustantial` — source typo of `circumstantial`) |
-| D | 260 | 260 | ✅ complete |
-| E | 249 | 249 | ✅ complete |
-| F | 145 | 145 | ✅ complete |
-| G | 54 | 54 | ✅ complete |
-| H | 73 | 73 | ✅ complete |
-| I | 275 | 162 | ✅ complete (user-curated: 113 removed for family consolidation & scope) |
-| J | 15 | 15 | ✅ complete |
-| K | 7 | 7 | ✅ complete |
-| L | 59 | 59 | ✅ complete |
-| M | 143 | 0 | ⏳ pending |
-| N | 45 | 0 | ⏳ pending |
-| O | 85 | 0 | ⏳ pending |
-| P | 301 | 0 | ⏳ pending |
-| Q | 21 | 0 | ⏳ pending |
-| R | 190 | 0 | ⏳ pending |
-| S | 313 | 0 | ⏳ pending |
-| T | 94 | 0 | ⏳ pending |
-| U | 92 | 0 | ⏳ pending |
-| V | 75 | 0 | ⏳ pending |
-| W | 34 | 0 | ⏳ pending |
-| X | 1 | 0 | ⏳ pending |
-| Y | 2 | 0 | ⏳ pending |
-| Z | 4 | 0 | ⏳ pending |
-| **Total** | **3202** | **1847** | 58% |
+| A | 216 | 255 | consolidated |
+| B | 82 | 92 | consolidated |
+| C | 276 | 318 | consolidated |
+| D | 219 | 260 | consolidated |
+| E | 197 | 249 | consolidated |
+| F | 123 | 145 | consolidated |
+| G | 52 | 54 | consolidated |
+| H | 65 | 73 | consolidated |
+| I | 156 | 275 | user-curated + consolidated |
+| J | 14 | 15 | consolidated |
+| K | 6 | 7 | consolidated |
+| L | 53 | 59 | consolidated |
+| M | — | 143 | pending |
+| N | — | 45 | pending |
+| O | — | 85 | pending |
+| P | — | 301 | pending |
+| Q | — | 21 | pending |
+| R | — | 190 | pending |
+| S | — | 313 | pending |
+| T | — | 94 | pending |
+| U | — | 92 | pending |
+| V | — | 75 | pending |
+| W | — | 34 | pending |
+| X | — | 1 | pending |
+| Y | — | 2 | pending |
+| Z | — | 4 | pending |
+| **Kept** | **1459** | **3202** | 46% covered so far |
+
+## Consolidation rule
+For each word family sharing a Porter-stemmed root (e.g. `impulsive/impulsively/impulsiveness`), only one form is kept — preferring the shortest / adjective / verb base and dropping derived nouns (-ness, -ity), adverbs (-ly), and derived noun-of-action forms (-ion, -ment, -ance/-ence) when a base form exists.
+
+Semantic-distinct families kept intact: `generate/generic/generality`, `affect/affectation`, `content/contention`, `exhaust/exhaustive`, `exact/exacting`, `discern/discernible/discernment`, `canon/canonical/canonize`, `deliberate/deliberation`, `derivative/derive`, `loath/loathe`.
 
 ## Output files
-- One CSV per letter: `vocab/A.csv`, `vocab/B.csv`, `vocab/C.csv`, ...
+- One CSV per letter: `vocab/A.csv` … `vocab/L.csv`
 - Columns: `Word, Meaning, Sense, Sentence 1, Sentence 2, Sentence 3`
