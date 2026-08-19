@@ -27,8 +27,8 @@ Family-consolidation applied (one form per word family).
 | N | 37 | 45 | consolidated |
 | O | 75 | 85 | consolidated |
 | P | 234 | 301 | consolidated |
-| Q | — | 21 | pending |
-| R | — | 190 | pending |
+| Q | 17 | 21 | consolidated |
+| R | 151 | 190 | consolidated |
 | S | — | 313 | pending |
 | T | — | 94 | pending |
 | U | — | 92 | pending |
@@ -37,7 +37,7 @@ Family-consolidation applied (one form per word family).
 | X | — | 1 | pending |
 | Y | — | 2 | pending |
 | Z | — | 4 | pending |
-| **Kept** | **1872** | **3202** | 58% covered so far |
+| **Kept** | **2040** | **3202** | 64% covered so far |
 
 ## Consolidation rule
 For each word family sharing a Porter-stemmed root (e.g. `impulsive/impulsively/impulsiveness`), only one form is kept — preferring the shortest / adjective / verb base and dropping derived nouns (-ness, -ity), adverbs (-ly), and derived noun-of-action forms (-ion, -ment, -ance/-ence) when a base form exists.
