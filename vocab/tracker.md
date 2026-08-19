@@ -18,10 +18,10 @@ Total unique words: **3202**
 | F | 145 | 145 | ✅ complete |
 | G | 54 | 54 | ✅ complete |
 | H | 73 | 73 | ✅ complete |
-| I | 275 | 275 | ✅ complete |
-| J | 15 | 0 | ⏳ pending |
-| K | 7 | 0 | ⏳ pending |
-| L | 59 | 0 | ⏳ pending |
+| I | 275 | 162 | ✅ complete (user-curated: 113 removed for family consolidation & scope) |
+| J | 15 | 15 | ✅ complete |
+| K | 7 | 7 | ✅ complete |
+| L | 59 | 59 | ✅ complete |
 | M | 143 | 0 | ⏳ pending |
 | N | 45 | 0 | ⏳ pending |
 | O | 85 | 0 | ⏳ pending |
@@ -36,7 +36,7 @@ Total unique words: **3202**
 | X | 1 | 0 | ⏳ pending |
 | Y | 2 | 0 | ⏳ pending |
 | Z | 4 | 0 | ⏳ pending |
-| **Total** | **3202** | **1879** | 59% |
+| **Total** | **3202** | **1847** | 58% |
 
 ## Output files
 - One CSV per letter: `vocab/A.csv`, `vocab/B.csv`, `vocab/C.csv`, ...
