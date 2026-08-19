@@ -1,6 +1,5 @@
 Word,Meaning,Sense,Sentence 1,Sentence 2,Sentence 3
 cacophonous,harshly noisy,−,Traffic made a cacophonous roar.,The band's tuning sounded cacophonous.,Cacophonous shouting filled the market.
-cacophony,harsh noise,−,A cacophony of horns filled the street.,The party was a cacophony of voices.,Birds made a cheerful cacophony at dawn.
 cagey,secretive shrewd,N,He was cagey about his salary.,She gave a cagey answer to the question.,The cagey investor kept her plans private.
 cajole,coax,N,She cajoled him into helping with the move.,He cajoled the child into eating vegetables.,The vendor cajoled tourists into buying souvenirs.
 calamitous,disastrous,−,The flood had calamitous effects on the town.,His calamitous decision cost the firm millions.,A calamitous fire destroyed the archive.
@@ -17,7 +16,6 @@ canonical,officially standard,N,His paper became the canonical reference.,She qu
 canonize,officially sainthood,+,The Pope canonized her last year.,Fans have canonized his early films.,Historians canonized the general as a hero.
 cantankerous,grumpy,−,He grew cantankerous with age.,The cantankerous old man scared the kids.,She dealt with cantankerous customers all day.
 capitulate,surrender,−,The army capitulated after a long siege.,She capitulated to his constant demands.,The company capitulated on the price.
-caprice,whim,N,"She acts on caprice, not planning.",His caprice cost the family their trip.,"At the caprice of the boss, meetings shift daily."
 capricious,fickle,−,The weather in April is capricious.,She is capricious in her friendships.,His capricious boss is hard to please.
 captious,fault-finding,−,The captious critic tore the film apart.,He is too captious to enjoy a simple meal.,She grew tired of his captious remarks.
 captivate,attract strongly,+,Her singing captivated the audience.,The novel captivated readers worldwide.,His warm smile captivated the crowd.
@@ -56,7 +54,6 @@ charismatic,magnetically attractive,+,The charismatic speaker held the crowd rap
 charlatan,fraud,−,The doctor turned out to be a charlatan.,She exposed the charlatan on live TV.,Beware of charlatans selling miracle cures.
 chary,cautiously reluctant,N,She was chary of trusting strangers.,He is chary about giving loans to friends.,Investors grew chary after the crash.
 chastise,rebuke,−,The coach chastised the team after the loss.,She chastised herself for being late.,The teacher chastised him for the prank.
-chauvinism,blind bias,−,His male chauvinism cost him her respect.,National chauvinism poisoned the debate.,The film exposes casual chauvinism at work.
 chauvinistic,blindly biased,−,His chauvinistic comments upset the team.,She wrote about chauvinistic attitudes at the firm.,Chauvinistic pride blinded them to weaknesses.
 check,restrain,N,He checked his anger before speaking.,Please check the numbers again.,She kept her ambitions in check.
 cheerless,gloomy,−,The room was cold and cheerless.,She had a cheerless start to the day.,The empty office felt cheerless at night.
@@ -66,7 +63,6 @@ chicanery,trickery,−,He was accused of legal chicanery.,She suspected chicaner
 chimera,illusion,−,World peace may be only a chimera.,His plan for instant wealth was a chimera.,She chased the chimera of perfect success.
 chimerical,fantastic,−,His chimerical schemes always failed.,She dismissed the idea as chimerical.,Their chimerical hopes soon faded.
 chivalrous,gallantly courteous,+,He gave a chivalrous bow to the ladies.,She admired his chivalrous behavior.,A chivalrous knight helped the traveler.
-chivalry,gallant courtesy,+,He is a symbol of old-world chivalry.,She misses the chivalry of past generations.,His chivalry impressed her family.
 choleric,easily angered,−,The choleric boss shouted at every mistake.,He has a choleric temper best avoided.,Her choleric response ended the meeting.
 christen,name,N,They christened the baby Emma.,She christened the boat before it launched.,We christened our new home with a party.
 churlish,rudely surly,−,His churlish reply upset the host.,It seems churlish to refuse such a kind offer.,She apologized for her churlish tone.
@@ -119,20 +115,16 @@ commonplace,ordinary,N,Cell phones are now commonplace in schools.,Traffic jams 
 compact,densely packed,N,The car is compact but roomy inside.,She wrote a compact summary of the report.,They signed a compact between the two towns.
 comparable,similar,N,The two houses are comparable in size.,His skill is comparable to a pro's.,There is no comparable product on the market.
 compartmentalize,divide separately,N,He compartmentalizes work and home life.,She learned to compartmentalize her emotions.,Good leaders compartmentalize different tasks.
-compassion,sympathy,+,She treats her patients with deep compassion.,His compassion for the poor was well known.,Compassion is the heart of good nursing.
 compassionate,sympathetic,+,She is a compassionate teacher to shy students.,He gave a compassionate look at the widow.,A compassionate response calms upset customers.
 compel,force,N,His words compelled her to act.,The law compels drivers to wear seat belts.,Bad weather compelled us to stay home.
 compensate,make up for,+,They will compensate you for the damage.,Nothing can compensate for lost time.,She compensated with hard work for her late start.
 competent,skilled,+,She is a competent lawyer with strong ethics.,He is competent enough for most tasks.,A competent driver handles any weather.
 complacent,smug,−,Do not grow complacent after one win.,She was complacent about her weight loss.,A complacent champion soon loses the crown.
 complain,express displeasure,−,He complained about the cold food.,"She never complains, even when tired.",Customers complained about the slow service.
-complement,completion,+,Red wine is a good complement to steak.,Her calm is a fine complement to his energy.,The gift is the perfect complement to the outfit.
 complementary,mutually completing,+,"Their skills are complementary, not competing.",Wine and cheese are complementary flavors.,Yoga and running are complementary exercises.
 complex,intricate,N,Human emotions are famously complex.,She solved the complex math problem.,The plan is too complex for beginners.
-compliance,obedience,N,Compliance with the law is required.,She checked employee compliance daily.,The report showed full compliance with rules.
 compliant,obedient,N,He was compliant with all safety rules.,She is a compliant student who listens well.,The device is compliant with new standards.
 compliment,praise,+,He paid her a lovely compliment.,She accepted the compliment graciously.,Compliments should be genuine to matter.
-complimentary,praising,+,The reviews were highly complimentary.,She wrote a complimentary note to the chef.,His complimentary email lifted her mood.
 comply,obey,N,You must comply with all safety rules.,The company will comply with the new law.,He refused to comply with the order.
 comportment,conduct,N,Her comportment at court impressed the queen.,His comportment during the crisis was calm.,The school teaches good comportment.
 compose,make up,N,Water composes most of the human body.,She composed a beautiful song for her mother.,Try to compose yourself before the meeting.
@@ -175,7 +167,6 @@ connoisseur,expert judge,+,He is a connoisseur of fine wine.,She is a connoisseu
 conscientious,careful,+,She is a conscientious student who studies daily.,He is conscientious about paying his bills.,The conscientious nurse checked each patient.
 consensus,general agreement,+,The team reached a consensus quickly.,There is broad consensus on the plan.,No consensus emerged after hours of debate.
 consent,permission,+,He gave his written consent for the trip.,She refused to consent to the deal.,Medical procedures need patient consent.
-consequence,result,N,He accepted the consequences of his choice.,There will be serious consequences for cheating.,One consequence of the storm was a power cut.
 consequential,important,N,It was a consequential meeting for the firm.,The election had consequential effects.,She made a consequential career move.
 conservation,protection,+,They work on wildlife conservation.,Water conservation is vital in dry areas.,Energy conservation saves money and resources.
 conservatism,traditionalism,N,Her conservatism showed in her choices.,The party is known for its conservatism.,His fiscal conservatism guided the budget.
@@ -244,7 +235,6 @@ courageous,brave,+,She made a courageous decision to speak up.,The courageous so
 courteous,polite,+,He is always courteous to staff.,She gave a courteous reply to the rude email.,The courteous guide helped every visitor.
 covert,secret,N,They ran a covert operation for months.,She gave him a covert glance across the room.,Covert surveillance uncovered the fraud.
 covet,greedily desire,−,He coveted his neighbor's new car.,Do not covet what others own.,She coveted the top job for years.
-cowardice,lack of courage,−,He was ashamed of his cowardice.,Cowardice cost the team the game.,She refused to accept cowardice from her son.
 cowardly,timid,−,It was a cowardly act to blame the child.,He gave a cowardly excuse for hiding.,She hated the cowardly online insults.
 cower,crouch fearfully,−,The dog cowered behind the sofa.,Children cowered as the storm hit.,She refused to cower before the bully.
 coy,teasingly shy,−,She gave a coy smile at the compliment.,Do not be coy about your salary.,His coy answers frustrated the reporter.
