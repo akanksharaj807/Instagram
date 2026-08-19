@@ -16,8 +16,8 @@ Total unique words: **3202**
 | D | 260 | 260 | ✅ complete |
 | E | 249 | 249 | ✅ complete |
 | F | 145 | 145 | ✅ complete |
-| G | 54 | 0 | ⏳ pending |
-| H | 73 | 0 | ⏳ pending |
+| G | 54 | 54 | ✅ complete |
+| H | 73 | 73 | ✅ complete |
 | I | 275 | 0 | ⏳ pending |
 | J | 15 | 0 | ⏳ pending |
 | K | 7 | 0 | ⏳ pending |
@@ -36,7 +36,7 @@ Total unique words: **3202**
 | X | 1 | 0 | ⏳ pending |
 | Y | 2 | 0 | ⏳ pending |
 | Z | 4 | 0 | ⏳ pending |
-| **Total** | **3202** | **1477** | 46% |
+| **Total** | **3202** | **1604** | 50% |
 
 ## Output files
 - One CSV per letter: `vocab/A.csv`, `vocab/B.csv`, `vocab/C.csv`, ...
